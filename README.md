@@ -1,2 +1,2 @@
 # Hello-World
-First repository
+fprintf('I'm amazing');
